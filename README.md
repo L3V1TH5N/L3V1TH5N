@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/L3V1TH5N](https://github.com/L3V1TH5N)
 
-- 📫 How to reach me **gavriell2721@gmail.com**
+- 📫 How to reach me **gavriell.pangann@gmail.com**
 
 - ⚡ Fun fact **I once tried debugging without coffee. Never again.**
 
