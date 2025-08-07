@@ -50,12 +50,14 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=L3V1TH5N&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Gavriell's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L3V1TH5N&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <!-- Fixed stats with accurate service -->
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=L3V1TH5N&theme=github_dark" alt="GitHub Stats" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=L3V1TH5N&theme=github_dark&exclude=html" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=L3V1TH5N&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  <!-- More reliable streak stats -->
+  <img src="https://streak-stats.demolab.com?user=L3V1TH5N&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
 
 ---
