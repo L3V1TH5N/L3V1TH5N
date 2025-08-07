@@ -57,7 +57,7 @@
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=L3V1TH5N&theme=github_dark&utcOffset=8" alt="Productive Time" />
 
   <!-- GitHub Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=L3V1TH5N&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=L3V1TH5N&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 
   <!-- GitHub Trophy (optional but popular) -->
   <img src="https://github-profile-trophy.vercel.app/?username=L3V1TH5N&theme=onestar&no-frame=true&margin-w=5&title=Stars,Followers,Commit,Issues,Repositories&rank=SECRET,SSS,AAA,AA,A,B,C" alt="GitHub Trophies" />
