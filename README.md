@@ -1,14 +1,9 @@
 <div align="center">
-  <h1>Hi, I'm Gavriell Pangan</h1>
-  <h3>Aspiring Software Developer</h3>
-  
-  <p>
-    <strong>AI | Web | Game Dev Enthusiast</strong>
-  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Gavriell+Pangan;Aspiring+Software+Developer;AI+%7C+Web+%7C+Game+Dev+Enthusiast" alt="Typing SVG" />
 
-  <p>
-    <a href="https://github.com/L3V1TH5N?tab=repositories">Explore My Projects</a> | 
-    <a href="mailto:gavriell.pangann@gmail.com">Contact Me</a>
+  <p align="center">
+    <a href="https://github.com/L3V1TH5N?tab=repositories"><strong>Explore My Projects</strong></a> | 
+    <a href="mailto:gavriell.pangann@gmail.com"><strong>Contact Me</strong></a>
   </p>
 </div>
 
@@ -33,10 +28,13 @@
 
 ### 🚀 Currently Learning
 *   **Flutter** for cross-platform mobile development.
-*   **Advanced Machine Learning** with TensorFlow.
+*   **Advanced Machine Learning** concepts.
 
 ---
 
-<p align="center">
-  <i>"Code is not just syntax; it is the bridge between logic and reality."</i>
-</p>
+<div align="center">
+  <h3>☕ Support My Work</h3>
+  <a href="https://www.buymeacoffee.com/gaavvv" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210">
+  </a>
+</div>
